@@ -1,0 +1,7 @@
+{
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.autoSave": "onWindowChange",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
